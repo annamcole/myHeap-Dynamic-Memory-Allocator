@@ -1,11 +1,3 @@
-///////////////////////////////////////////////////////////////////////////////
-//
-// Copyright 2019-2020 Jim Skrentny
-// Posting or sharing this file is prohibited, including any changes/additions.
-// Used by permission Fall 2020, CS354-deppeler
-//
-///////////////////////////////////////////////////////////////////////////////
- 
 #include <unistd.h>
 #include <sys/types.h>
 #include <sys/stat.h>
